@@ -1,8 +1,17 @@
+[repo]:  https://github.com/yordanny90/VectorJSON
+[iconGit]: http://www.google.com/s2/favicons?domain=www.github.com
+
 # Librería VectorJSON
 Esta librería se utiliza para leer y escribir archivos de vectores de datos basados en JSON.
 
 Es similar a los CSV, pero su objetivo principal es ser mucho mas rápido en lectura y escritura.
 Además de soportar una mayor variedad de estructuras de datos.
+
+[Ir a ![GitHub CI][iconGit]][repo]
+
+# Requisitos mínimos
+
+PHP 7.1+, PHP 8.0+
 
 ### Escritura:
 ```PHP

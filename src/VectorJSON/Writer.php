@@ -1,9 +1,4 @@
 <?php
-/**
- * Yordanny Mejías Venegas.
- * Creado: 2022-05-20
- * Modificado: 2022-09-28
- */
 
 namespace VectorJSON;
 
